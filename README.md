@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨‍💻 This is **Archie**, a 4-th year Computer Science undergrad **@UofT**, specializing in **Software Engineering**
+👨‍💻 This is **Archie**, a 4-th year Computer Science undergrad **[@UofT](https://www.utoronto.ca)**, specializing in **Software Engineering**
 
 🇨🇦 I started my journey in Canada since 2019
 
@@ -9,9 +9,9 @@
 
 ---
 
-🍎 I worked as an **iOS Developer Intern** **@theScore** from September 2021 to April 2022
+🍎 I worked as an **iOS Developer Intern** **[@theScore](https://thescore.com)** from September 2021 to April 2022
 
-🤖️ I will start working as a **Software Developer Intern (AI/ML)** **@Ceridian** in September 2022
+🤖️ I will start working as a **Software Developer Intern (AI/ML)** **[@Ceridian](https://ceridian.com)** in September 2022
 
 ---
 
