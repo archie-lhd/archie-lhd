@@ -19,4 +19,4 @@
 
 #### > follow me on:
 [![Dribbble](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://dribbble.com/ArchieLiu)
-[![LinkedIn](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://linkedin.com/in/houde-liu)
+[![LinkedIn](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://linkedin.com/in/archie-liu)
