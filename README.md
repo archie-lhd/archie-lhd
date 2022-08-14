@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **archie-lhd/archie-lhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archie-lhd&theme=buefy&show_icons=true&hide=issues&count_private=true)
