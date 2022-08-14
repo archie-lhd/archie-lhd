@@ -18,5 +18,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archie-lhd&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=issues,contribs&count_private=true)
 
 #### > follow me on:
-[![Dribbble](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://dribbble.com/ArchieLiu)
-[![LinkedIn](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://linkedin.com/in/archie-liu)
+[![Dribbble](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/archie-liu)
+[![LinkedIn](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ArchieLiu)
