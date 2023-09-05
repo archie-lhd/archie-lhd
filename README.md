@@ -1,17 +1,17 @@
 ### Hi there 👋
-👨‍💻 This is **Archie**, a 4th year Computer Science undergrad **[@UofT](https://www.utoronto.ca)**, specializing in **Software Engineering**
+👨‍💻 This is **Archie**, a senior Computer Science undergrad **[@UofT](https://www.utoronto.ca)**, specializing in **Software Engineering**
 
 🇨🇦 I started my journey in Canada since 2019
 
-📷 I love taking photos with my SONY mirrorless
+📷 I love taking photos with my SONY mirrorless (IG photographer account: **[@archie.shutters](https://www.instagram.com/archie.shutters/)**)
 
-📖 🇫🇷 I am learning French, hopefully won't give up this time
+📖 🇫🇷 I am learning French by myself, hopefully won't give up this time
 
 ---
 
 🍎 I worked as an **iOS Developer Intern** **[@theScore](https://www.linkedin.com/company/thescore/)** from September 2021 to April 2022
 
-🤖️ I will start working as a **Software Developer Intern (AI/ML)** **[@Ceridian](https://www.linkedin.com/company/ceridian/)** in September 2022
+🤖️ I worked as a **Software Developer Intern (AI/ML)** **[@Ceridian](https://www.linkedin.com/company/ceridian/)** from September 2022 to April 2023
 
 ---
 
